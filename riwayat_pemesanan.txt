@@ -1,0 +1,9 @@
+Kode Booking: BK1704027332873
+Nama Pemesan: hafizh
+Tujuan: KYOTO
+Maskapai: JAKARTA/12:00
+Jumlah Tiket: 1
+Total Harga: Rp. 5940000
+Jumlah Bayar: Rp. 5940000
+Tanggal Pemesanan: 31/12/2023 07:55:32 PM
+--------------------------------------------
